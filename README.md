@@ -14,6 +14,10 @@ The screencast for the project can found [here](https://drive.google.com/file/d/
 
 ## Live Link
 The live link to the app can be found [here](https://pronunciation-practice.herokuapp.com/). Note that the app is currently in development and is not yet ready for use. This live link contains the latest [release](https://github.com/UAlberta-CMPUT401/pronunciation-practice/releases/latest) of the app.
+Admin Creds :- user: secure_admin, Password :- ilmhub123
+Student :- user: student, password: test
+Teacher :- user: teacher, password: test
+Parent :- user: parent, password: test
 
 ## Documentation
 The documentation for the app can be found [here](https://ualberta-cmput401.github.io/pronunciation-practice/).
